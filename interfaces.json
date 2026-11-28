@@ -1,0 +1,737 @@
+{
+  "generated": "2026-11-28 01:51:23",
+  "total": 73,
+  "alive": 20,
+  "items": [
+    {
+      "name": "v",
+      "url": "https://qist.wyfc.qzz.io/jsm.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 89,
+      "sites": 161,
+      "detail": "单仓 161 个站点"
+    },
+    {
+      "name": "电视",
+      "url": "https://raw.githubusercontent.com/qist/tvbox/master/jsm.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 131,
+      "sites": 161,
+      "detail": "单仓 161 个站点"
+    },
+    {
+      "name": "潇洒",
+      "url": "https://qist.wyfc.qzz.io/xiaosa/api.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 104,
+      "sites": 115,
+      "detail": "单仓 115 个站点"
+    },
+    {
+      "name": "凯速地址",
+      "url": "https://6800.kstore.vip/fish.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 434,
+      "sites": 111,
+      "detail": "单仓 111 个站点"
+    },
+    {
+      "name": "牛二",
+      "url": "https://9280.kstore.space/newwex.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 775,
+      "sites": 95,
+      "detail": "单仓 95 个站点"
+    },
+    {
+      "name": "王二小",
+      "url": "https://9280.kstore.vip/newwex.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 506,
+      "sites": 95,
+      "detail": "单仓 95 个站点"
+    },
+    {
+      "name": "王二小放牛娃",
+      "url": "https://9280.kstore.vip/wex.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 554,
+      "sites": 95,
+      "detail": "单仓 95 个站点"
+    },
+    {
+      "name": "软件",
+      "url": "http://47.96.82.41:5188/api.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 690,
+      "sites": 90,
+      "detail": "单仓 90 个站点"
+    },
+    {
+      "name": "18",
+      "url": "https://raw.githubusercontent.com/xzqcsa/ysc/837da76da2309050fa377e0e366896ea6a64e32f/xzqzy/18.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 182,
+      "sites": 64,
+      "detail": "单仓 64 个站点"
+    },
+    {
+      "name": "小马",
+      "url": "https://szyyds.cn/tv/x.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 940,
+      "sites": 62,
+      "detail": "单仓 62 个站点"
+    },
+    {
+      "name": "饭太硬",
+      "url": "https://qist.wyfc.qzz.io/fty.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 118,
+      "sites": 50,
+      "detail": "单仓 50 个站点"
+    },
+    {
+      "name": "L佬",
+      "url": "https://android.lushunming.qzz.io/json/index.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 3110,
+      "sites": 45,
+      "detail": "单仓 45 个站点"
+    },
+    {
+      "name": "荐片",
+      "url": "https://tv.203511.xyz/0821.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 68,
+      "sites": 36,
+      "detail": "单仓 36 个站点"
+    },
+    {
+      "name": "1",
+      "url": "https://700sjro44343.vicp.fun/vip/vip/tv.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 1613,
+      "sites": 33,
+      "detail": "单仓 33 个站点"
+    },
+    {
+      "name": "二月红接口",
+      "url": "https://700sjro44343.vicp.fun/eggp/0211/tv.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 1812,
+      "sites": 33,
+      "detail": "单仓 33 个站点"
+    },
+    {
+      "name": "茄子",
+      "url": "https://700sjro44343.vicp.fun/eggp/qzku/tv.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 1732,
+      "sites": 33,
+      "detail": "单仓 33 个站点"
+    },
+    {
+      "name": "动漫",
+      "url": "https://www.yingm.cc/dm/dm.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 730,
+      "sites": 27,
+      "detail": "单仓 27 个站点"
+    },
+    {
+      "name": "俊哥接口",
+      "url": "http://home.jundie.top:81/top98.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 1228,
+      "sites": 24,
+      "detail": "单仓 24 个站点"
+    },
+    {
+      "name": "苍蓝",
+      "url": "https://13537.kstore.vip/tvbox/test.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 660,
+      "sites": 4,
+      "detail": "单仓 4 个站点"
+    },
+    {
+      "name": "my interface",
+      "url": "http://124.223.214.31:8/api.json",
+      "ok": true,
+      "kind": "single",
+      "http": 200,
+      "ms": 432,
+      "sites": 2,
+      "detail": "单仓 2 个站点"
+    },
+    {
+      "name": "\"分享",
+      "url": "http://hucongrong.web3v.work/风水/fxz/fxz.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 0,
+      "sites": 0,
+      "detail": "连接失败 UnicodeEncodeError"
+    },
+    {
+      "name": "12.苍蓝",
+      "url": "http://xn--6orr3pi6g9uu.top",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 679,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "catbox",
+      "url": "https://catbox.n13.club/jk/t4.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 10030,
+      "sites": 0,
+      "detail": "连接失败 URLError"
+    },
+    {
+      "name": "cs",
+      "url": "http://tv.nxog.top/m/",
+      "ok": false,
+      "kind": "unknown",
+      "http": 403,
+      "ms": 402,
+      "sites": 0,
+      "detail": "HTTP 403"
+    },
+    {
+      "name": "fmys",
+      "url": "http://fmys.top/fmys.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 404,
+      "ms": 651,
+      "sites": 0,
+      "detail": "HTTP 404"
+    },
+    {
+      "name": "ok",
+      "url": "https://raw.liucn.cc/box/m.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 63,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "uuccc",
+      "url": "http://xn--5mqx81b535a.com/",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 1486,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "vox",
+      "url": "https://code.onedev.io/vox/~raw/master/demo.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 403,
+      "ms": 103,
+      "sites": 0,
+      "detail": "HTTP 403"
+    },
+    {
+      "name": "传说",
+      "url": "https://chuanshuo.77blog.cn/tv.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 991,
+      "sites": 0,
+      "detail": "连接失败 URLError"
+    },
+    {
+      "name": "喵影",
+      "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 404,
+      "ms": 393,
+      "sites": 0,
+      "detail": "HTTP 404"
+    },
+    {
+      "name": "宝盒",
+      "url": "https://宝盒接口.top",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 815,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "宝盒接口",
+      "url": "http://宝盒接口.top",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 1218,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "小盒子4K",
+      "url": "http://xhztv.top/4k.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 241,
+      "sites": 0,
+      "detail": "JSON 解析失败 Invalid control character at: line 657 column 142 (char 18913)"
+    },
+    {
+      "name": "小米",
+      "url": "http://miqk.cc/小米/DEMO.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 0,
+      "sites": 0,
+      "detail": "连接失败 UnicodeEncodeError"
+    },
+    {
+      "name": "少儿频道",
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 616,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "影视仓",
+      "url": "http://影视仓.com/",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 1530,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "心魔",
+      "url": "https://fastgit.cc/https://raw.githubusercontent.com/yw88075/tvbox/main/yw.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 403,
+      "ms": 120,
+      "sites": 0,
+      "detail": "HTTP 403"
+    },
+    {
+      "name": "我的",
+      "url": "https://codeberg.org/wei88976862/tvbox001/raw/branch/main/fty.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 403,
+      "ms": 459,
+      "sites": 0,
+      "detail": "HTTP 403"
+    },
+    {
+      "name": "摸鱼",
+      "url": "http://www.小不点.com",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 49,
+      "sites": 0,
+      "detail": "连接失败 URLError"
+    },
+    {
+      "name": "摸鱼",
+      "url": "http://我不是.摸鱼儿.top",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 1296,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "新接口",
+      "url": "https://www.iyouhun.com/tv/wex",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 1994,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "日后",
+      "url": "http://rihou.cc:555/nzk/nzk0722.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 37,
+      "sites": 0,
+      "detail": "连接失败 URLError"
+    },
+    {
+      "name": "最新大佬们的接口，主接口：",
+      "url": "http://枫斗.top/tv",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 2733,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "朱雀",
+      "url": "https://gitee.com/yiwu369/6758/raw/master/朱雀/api.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 2,
+      "sites": 0,
+      "detail": "连接失败 UnicodeEncodeError"
+    },
+    {
+      "name": "欧歌",
+      "url": "https://xn--54qz74d.u.xn--dkw.xn--6qq986b3xl/apib.php?id=2",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 608,
+      "sites": 0,
+      "detail": "连接失败 URLError"
+    },
+    {
+      "name": "欧歌",
+      "url": "https://xn--i8sz35d1yr.u.nxog.top/apib.php?id=3",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 552,
+      "sites": 0,
+      "detail": "连接失败 URLError"
+    },
+    {
+      "name": "欧歌",
+      "url": "https://xn--z7x900a.e.nxog.top/apib.php?id=4",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 542,
+      "sites": 0,
+      "detail": "连接失败 URLError"
+    },
+    {
+      "name": "欧歌免费",
+      "url": "https://tv.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=tv",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 17,
+      "sites": 0,
+      "detail": "连接失败 UnicodeEncodeError"
+    },
+    {
+      "name": "欧歌接口",
+      "url": "https://xn--sdds-rp5imh.v.nxog.top/apitv.php?id=3",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 564,
+      "sites": 0,
+      "detail": "连接失败 URLError"
+    },
+    {
+      "name": "毒盒",
+      "url": "https://xn--8owq8u.com/tv/",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 151,
+      "sites": 0,
+      "detail": "连接失败 URLError"
+    },
+    {
+      "name": "王二小接口",
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 613,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "王二小放牛娃",
+      "url": "http://tv.999888987.xyz",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 661,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "王二小放牛娃",
+      "url": "http://tv.999888123.xyz/",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 361,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "王二小放牛娃",
+      "url": "http://tvbox.王二小放牛娃.top",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 626,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "真心",
+      "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 403,
+      "ms": 825,
+      "sites": 0,
+      "detail": "HTTP 403"
+    },
+    {
+      "name": "肥猫",
+      "url": "https://9877.kstore.space/ONE/one.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 502,
+      "ms": 606,
+      "sites": 0,
+      "detail": "HTTP 502"
+    },
+    {
+      "name": "肥猫",
+      "url": "http://肥猫.net/",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 3097,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "肥猫",
+      "url": "http://肥猫.net/tv",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 5342,
+      "sites": 0,
+      "detail": "连接失败 ConnectionResetError"
+    },
+    {
+      "name": "肥猫",
+      "url": "http://hello.肥猫.net",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 5598,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "肥猫线路",
+      "url": "http://肥猫.com/",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 8459,
+      "sites": 0,
+      "detail": "连接失败 URLError"
+    },
+    {
+      "name": "脑斧",
+      "url": "https://6492.kstore.space/xnf/xnf.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 401,
+      "ms": 407,
+      "sites": 0,
+      "detail": "HTTP 401"
+    },
+    {
+      "name": "菜妮丝",
+      "url": "https://tv.菜妮丝.top",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 254,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "蓝天",
+      "url": "https://gitee.com/lukei7/lib/raw/Luck/%E8%87%AA%E5%BB%BA.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 423,
+      "ms": 3374,
+      "sites": 0,
+      "detail": "HTTP 423"
+    },
+    {
+      "name": "蜗牛",
+      "url": "https://tv.xn--11x555b.top/svip",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 202,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "道长",
+      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 404,
+      "ms": 282,
+      "sites": 0,
+      "detail": "HTTP 404"
+    },
+    {
+      "name": "雷蒙",
+      "url": "https://fastgit.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/lemj.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 403,
+      "ms": 54,
+      "sites": 0,
+      "detail": "HTTP 403"
+    },
+    {
+      "name": "饭太硬",
+      "url": "http://fty.xxooo.cf/tv",
+      "ok": false,
+      "kind": "unknown",
+      "http": 0,
+      "ms": 385,
+      "sites": 0,
+      "detail": "连接失败 URLError"
+    },
+    {
+      "name": "饭太硬",
+      "url": "http://fty.888484.xyz/tv",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 752,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "饭太硬",
+      "url": "http://www.饭太硬.cc/tv",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 551,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "饭太硬",
+      "url": "http://www.饭太硬.art/tv",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 624,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "饭太硬",
+      "url": "http://www.饭太硬.net/tv",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 1152,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "饭太硬",
+      "url": "http://fty.333232.xyz/tv",
+      "ok": false,
+      "kind": "unknown",
+      "http": 200,
+      "ms": 1042,
+      "sites": 0,
+      "detail": "返回的不是 JSON（多为网页/空响应）"
+    },
+    {
+      "name": "麒麟影仓",
+      "url": "https://gitee.com/qlysgzs/qlys/raw/master/qlycZHCK.json",
+      "ok": false,
+      "kind": "unknown",
+      "http": 403,
+      "ms": 1935,
+      "sites": 0,
+      "detail": "HTTP 403"
+    }
+  ]
+}
